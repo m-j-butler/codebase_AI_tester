@@ -1,0 +1,47 @@
+[build-system]
+requires = ["setuptools>=61.0"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "dataframe-cleaner"
+version = "0.1.0"
+description = "A modular dataframe cleaning and JSON validation library using Pandas."
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "pandas>=2.0.0",
+]
+
+[project.optional-dependencies]
+dev = [
+    "pytest>=8.0.0",
+    "pytest-cov>=5.0.0",
+    "ruff>=0.6.0",
+    "mypy>=1.11.0",
+    "pandas-stubs",
+]
+
+[tool.setuptools]
+package-dir = {"" = "src"}
+
+[tool.setuptools.package-data]
+dataframe_cleaner = ["py.typed"]
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.pytest.ini_options]
+pythonpath = ["src"]
+testpaths = ["tests"]
+addopts = "--cov-report=term-missing -rA"
+
+[tool.coverage.run]
+source = ["src"]
+omit = [
+    "tests/*",
+    "*.egg",
+    "*.egg-info/*",
+    "**/*.egg-info/*",
+    "build/*",
+    "dist/*",
+]
