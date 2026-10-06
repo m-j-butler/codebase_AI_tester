@@ -1,0 +1,19 @@
+# Python virtual environments
+.venv/
+
+# Development files
+_DEVELOPMENT_FOLDER/
+
+# Python cache and test artefacts
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+*.egg*
+.coverage
+
+# Generated project output
+logs/
+*.log
+data/output/
