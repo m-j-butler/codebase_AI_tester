@@ -1,0 +1,22 @@
+[
+  {"sensor_id": "SENS-UK-01", "total_cycles": 1250, "voltage_v": 230.15, "phase_drift_rad": 0.000123456789012345678901234567891},
+  {"sensor_id": "SENS-UK-02", "total_cycles": 3410, "voltage_v": 229.80, "phase_drift_rad": 0.000987654321098765432109876543210},
+  {"sensor_id": "SENS-UK-03", "total_cycles": 890, "voltage_v": 231.05, "phase_drift_rad": 0.00045678901234567890123456789012},
+  {"sensor_id": "SENS-UK-04", "total_cycles": 4120, "voltage_v": 228.95, "phase_drift_rad": 0.000876543210987654321098765432109},
+  {"sensor_id": "SENS-UK-05", "total_cycles": 2150, "voltage_v": 230.40, "phase_drift_rad": 0.000234567890123456789012345678901},
+  {"sensor_id": "SENS-UK-06", "total_cycles": 1780, "voltage_v": 230.00, "phase_drift_rad": 0.000765432109876543210987654321098},
+  {"sensor_id": "SENS-UK-07", "total_cycles": 5300, "voltage_v": 229.10, "phase_drift_rad": 0.000345678901234567890123456789012},
+  {"sensor_id": "SENS-UK-08", "total_cycles": 940, "voltage_v": 231.50, "phase_drift_rad": 0.000654321098765432109876543210987},
+  {"sensor_id": "SENS-UK-09", "total_cycles": 3100, "voltage_v": 229.75, "phase_drift_rad": 0.000567890123456789012345678901234},
+  {"sensor_id": "SENS-UK-10", "total_cycles": 2750, "voltage_v": 230.85, "phase_drift_rad": 0.000432109876543210987654321098765},
+  {"sensor_id": "SENS-UK-11", "total_cycles": 1620, "voltage_v": 230.20, "phase_drift_rad": 0.000678901234567890123456789012345},
+  {"sensor_id": "SENS-UK-12", "total_cycles": 4890, "voltage_v": 228.60, "phase_drift_rad": 0.000321098765432109876543210987654},
+  {"sensor_id": "SENS-UK-13", "total_cycles": 1100, "voltage_v": 231.25, "phase_drift_rad": 0.000789012345678901234567890123456},
+  {"sensor_id": "SENS-UK-14", "total_cycles": 3840, "voltage_v": 229.90, "phase_drift_rad": 0.000210987654321098765432109876543},
+  {"sensor_id": "SENS-UK-15", "total_cycles": 2010, "voltage_v": 230.50, "phase_drift_rad": 0.000890123456789012345678901234567},
+  {"sensor_id": "SENS-UK-16", "total_cycles": 4450, "voltage_v": 229.35, "phase_drift_rad": 0.000109876543210987654321098765432},
+  {"sensor_id": "SENS-UK-17", "total_cycles": 1330, "voltage_v": 230.70, "phase_drift_rad": 0.000901234567890123456789012345678},
+  {"sensor_id": "SENS-UK-18", "total_cycles": 2980, "voltage_v": 228.80, "phase_drift_rad": 0.000098765432109876543210987654321},
+  {"sensor_id": "SENS-UK-19", "total_cycles": 3670, "voltage_v": 231.10, "phase_drift_rad": 0.000112233445566778899001122334455},
+  {"sensor_id": "SENS-UK-20", "total_cycles": 5120, "voltage_v": 229.45, "phase_drift_rad": 0.000998877665544332211009988776655}
+]

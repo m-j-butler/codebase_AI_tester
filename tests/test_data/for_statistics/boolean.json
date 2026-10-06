@@ -1,0 +1,22 @@
+[
+  {"customer_id": "CUST-101", "monthly_spend_gbp": 29.99, "is_premium_member": true},
+  {"customer_id": "CUST-102", "monthly_spend_gbp": 14.50, "is_premium_member": false},
+  {"customer_id": "CUST-103", "monthly_spend_gbp": 49.00, "is_premium_member": true},
+  {"customer_id": "CUST-104", "monthly_spend_gbp": 0.00, "is_premium_member": false},
+  {"customer_id": "CUST-105", "monthly_spend_gbp": 79.99, "is_premium_member": true},
+  {"customer_id": "CUST-106", "monthly_spend_gbp": 14.50, "is_premium_member": false},
+  {"customer_id": "CUST-107", "monthly_spend_gbp": 29.99, "is_premium_member": true},
+  {"customer_id": "CUST-108", "monthly_spend_gbp": 9.99, "is_premium_member": false},
+  {"customer_id": "CUST-109", "monthly_spend_gbp": 120.50, "is_premium_member": true},
+  {"customer_id": "CUST-110", "monthly_spend_gbp": 14.50, "is_premium_member": false},
+  {"customer_id": "CUST-111", "monthly_spend_gbp": 29.99, "is_premium_member": true},
+  {"customer_id": "CUST-112", "monthly_spend_gbp": 0.00, "is_premium_member": false},
+  {"customer_id": "CUST-113", "monthly_spend_gbp": 59.99, "is_premium_member": true},
+  {"customer_id": "CUST-114", "monthly_spend_gbp": 14.50, "is_premium_member": false},
+  {"customer_id": "CUST-115", "monthly_spend_gbp": 99.00, "is_premium_member": true},
+  {"customer_id": "CUST-116", "monthly_spend_gbp": 9.99, "is_premium_member": false},
+  {"customer_id": "CUST-117", "monthly_spend_gbp": 29.99, "is_premium_member": true},
+  {"customer_id": "CUST-118", "monthly_spend_gbp": 14.50, "is_premium_member": false},
+  {"customer_id": "CUST-119", "monthly_spend_gbp": 45.00, "is_premium_member": true},
+  {"customer_id": "CUST-120", "monthly_spend_gbp": 0.00, "is_premium_member": false}
+]

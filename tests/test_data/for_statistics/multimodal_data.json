@@ -1,0 +1,22 @@
+[
+  {"warehouse_code": 701, "product_category": "Electronics", "courier_status": "Delivered", "delivery_distance_km": 3.8, "order_value_gbp": 48.50, "dispatch_delay_mins": 14},
+  {"warehouse_code": 701, "product_category": "Clothing", "courier_status": "In Transit", "delivery_distance_km": 148.2, "order_value_gbp": 51.20, "dispatch_delay_mins": 15},
+  {"warehouse_code": 701, "product_category": "Books", "courier_status": "Dispatched", "delivery_distance_km": 4.5, "order_value_gbp": 49.90, "dispatch_delay_mins": 16},
+  {"warehouse_code": 701, "product_category": "Home & Garden", "courier_status": "Delivered", "delivery_distance_km": 152.0, "order_value_gbp": 50.00, "dispatch_delay_mins": 15},
+  {"warehouse_code": 701, "product_category": "Electronics", "courier_status": "In Transit", "delivery_distance_km": 5.1, "order_value_gbp": 47.80, "dispatch_delay_mins": 13},
+  {"warehouse_code": 701, "product_category": "Beauty", "courier_status": "Returned", "delivery_distance_km": 145.6, "order_value_gbp": 53.10, "dispatch_delay_mins": 15},
+  {"warehouse_code": 701, "product_category": "Clothing", "courier_status": "Delivered", "delivery_distance_km": 4.0, "order_value_gbp": 52.00, "dispatch_delay_mins": 17},
+  {"warehouse_code": 701, "product_category": "Books", "courier_status": "Dispatched", "delivery_distance_km": 151.4, "order_value_gbp": 46.50, "dispatch_delay_mins": 15},
+  {"warehouse_code": 701, "product_category": "Sports", "courier_status": "Delivered", "delivery_distance_km": 3.5, "order_value_gbp": 50.80, "dispatch_delay_mins": 14},
+  {"warehouse_code": 701, "product_category": "Electronics", "courier_status": "In Transit", "delivery_distance_km": 149.0, "order_value_gbp": 49.20, "dispatch_delay_mins": 16},
+  {"warehouse_code": 701, "product_category": "Home & Garden", "courier_status": "Delivered", "delivery_distance_km": 5.8, "order_value_gbp": 51.50, "dispatch_delay_mins": 15},
+  {"warehouse_code": 701, "product_category": "Beauty", "courier_status": "Dispatched", "delivery_distance_km": 153.8, "order_value_gbp": 48.00, "dispatch_delay_mins": 12},
+  {"warehouse_code": 701, "product_category": "Clothing", "courier_status": "Delivered", "delivery_distance_km": 4.9, "order_value_gbp": 50.20, "dispatch_delay_mins": 15},
+  {"warehouse_code": 701, "product_category": "Sports", "courier_status": "In Transit", "delivery_distance_km": 146.2, "order_value_gbp": 54.00, "dispatch_delay_mins": 18},
+  {"warehouse_code": 701, "product_category": "Books", "courier_status": "Delivered", "delivery_distance_km": 3.9, "order_value_gbp": 47.00, "dispatch_delay_mins": 15},
+  {"warehouse_code": 701, "product_category": "Electronics", "courier_status": "Returned", "delivery_distance_km": 150.5, "order_value_gbp": 52.80, "dispatch_delay_mins": 14},
+  {"warehouse_code": 701, "product_category": "Home & Garden", "courier_status": "Delivered", "delivery_distance_km": 5.4, "order_value_gbp": 49.60, "dispatch_delay_mins": 16},
+  {"warehouse_code": 701, "product_category": "Beauty", "courier_status": "Dispatched", "delivery_distance_km": 147.9, "order_value_gbp": 51.00, "dispatch_delay_mins": 15},
+  {"warehouse_code": 701, "product_category": "Clothing", "courier_status": "In Transit", "delivery_distance_km": 4.1, "order_value_gbp": 48.90, "dispatch_delay_mins": 13},
+  {"warehouse_code": 701, "product_category": "Sports", "courier_status": "Delivered", "delivery_distance_km": 151.1, "order_value_gbp": 50.40, "dispatch_delay_mins": 15}
+]

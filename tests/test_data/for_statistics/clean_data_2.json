@@ -1,0 +1,162 @@
+[
+  {
+    "id": 101,
+    "employee_name": "Oliver Smith",
+    "department": "Operations",
+    "age": 29,
+    "salary_gbp": 42500,
+    "performance_rating": 4.2
+  },
+  {
+    "id": 102,
+    "employee_name": "Amelia Jones",
+    "department": "Marketing",
+    "age": 34,
+    "salary_gbp": 51000,
+    "performance_rating": 4.7
+  },
+  {
+    "id": 103,
+    "employee_name": "George Taylor",
+    "department": "Finance",
+    "age": 41,
+    "salary_gbp": 68000,
+    "performance_rating": 3.9
+  },
+  {
+    "id": 104,
+    "employee_name": "Isla Brown",
+    "department": "Engineering",
+    "age": 26,
+    "salary_gbp": 39500,
+    "performance_rating": 4.5
+  },
+  {
+    "id": 105,
+    "employee_name": "Noah Williams",
+    "department": "Human Resources",
+    "age": 38,
+    "salary_gbp": 47200,
+    "performance_rating": 3.8
+  },
+  {
+    "id": 106,
+    "employee_name": "Ava Davies",
+    "department": "Operations",
+    "age": 45,
+    "salary_gbp": 61000,
+    "performance_rating": 4.1
+  },
+  {
+    "id": 107,
+    "employee_name": "Leo Evans",
+    "department": "Engineering",
+    "age": 31,
+    "salary_gbp": 54000,
+    "performance_rating": 4.8
+  },
+  {
+    "id": 108,
+    "employee_name": "Mia Wilson",
+    "department": "Marketing",
+    "age": 28,
+    "salary_gbp": 41000,
+    "performance_rating": 3.6
+  },
+  {
+    "id": 109,
+    "employee_name": "Arthur Thomas",
+    "department": "Finance",
+    "age": 52,
+    "salary_gbp": 82000,
+    "performance_rating": 4.4
+  },
+  {
+    "id": 110,
+    "employee_name": "Sophia Johnson",
+    "department": "Product",
+    "age": 33,
+    "salary_gbp": 58500,
+    "performance_rating": 4.0
+  },
+  {
+    "id": 111,
+    "employee_name": "Freddie Roberts",
+    "department": "Engineering",
+    "age": 24,
+    "salary_gbp": 36000,
+    "performance_rating": 3.7
+  },
+  {
+    "id": 112,
+    "employee_name": "Grace Robinson",
+    "department": "Operations",
+    "age": 49,
+    "salary_gbp": 69000,
+    "performance_rating": 4.6
+  },
+  {
+    "id": 113,
+    "employee_name": "Archie Wright",
+    "department": "Human Resources",
+    "age": 30,
+    "salary_gbp": 44000,
+    "performance_rating": 3.5
+  },
+  {
+    "id": 114,
+    "employee_name": "Lily Walker",
+    "department": "Product",
+    "age": 37,
+    "salary_gbp": 63000,
+    "performance_rating": 4.9
+  },
+  {
+    "id": 115,
+    "employee_name": "Theo White",
+    "department": "Marketing",
+    "age": 42,
+    "salary_gbp": 56000,
+    "performance_rating": 4.1
+  },
+  {
+    "id": 116,
+    "employee_name": "Freya Hughes",
+    "department": "Finance",
+    "age": 27,
+    "salary_gbp": 45000,
+    "performance_rating": 4.3
+  },
+  {
+    "id": 117,
+    "employee_name": "Alexander Edwards",
+    "department": "Engineering",
+    "age": 50,
+    "salary_gbp": 88000,
+    "performance_rating": 4.7
+  },
+  {
+    "id": 118,
+    "employee_name": "Florence Green",
+    "department": "Operations",
+    "age": 35,
+    "salary_gbp": 52500,
+    "performance_rating": 3.9
+  },
+  {
+    "id": 119,
+    "employee_name": "Henry Hall",
+    "department": "Product",
+    "age": 29,
+    "salary_gbp": 48000,
+    "performance_rating": 4.0
+  },
+  {
+    "id": 120,
+    "employee_name": "Emily Lewis",
+    "department": "Human Resources",
+    "age": 44,
+    "salary_gbp": 59000,
+    "performance_rating": 4.5
+  }
+]

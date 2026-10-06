@@ -1,0 +1,10 @@
+[
+  {"id": "01", "is_numeric_data": true, "numeric_column": "42.0", "digits": [4, 2, 0], "remainder": "zero"},
+  {"id": "02", "is_numeric_data": false, "numeric_column": "42.1", "digits": [4, 2, 1], "remainder": "one"},
+  {"id": "03", "is_numeric_data": true, "numeric_column": "42.2", "digits": [4, 2, 2], "remainder": "two"},
+  {"id": "04", "is_numeric_data": false, "numeric_column": "42.3", "digits": [4, 2, 3], "remainder": "three"},
+  {"id": "05", "is_numeric_data": true, "numeric_column": "42.4", "digits": [4, 2, 4], "remainder": "four"},
+  {"id": "06", "is_numeric_data": false, "numeric_column": "42.5", "digits": [4, 2, 5], "remainder": "five"},
+  {"id": "07", "is_numeric_data": true, "numeric_column": "42.6", "digits": [4, 2, 6], "remainder": "six"},
+  {"id": "08", "is_numeric_data": false, "numeric_column": "42.7", "digits": [4, 2, 7], "remainder": "seven"}
+]
