@@ -1,0 +1,132 @@
+[
+  {
+    "customer_id": "C101",
+    "full_name": "Alice Smith",
+    "email": "alice@example.com",
+    "join_date": "2023-01-15",
+    "purchase_amount": 250.5,
+    "region": " North ",
+    "is_active": true,
+    "notes": "active"
+  },
+  {
+    "customer_id": "C102",
+    "full_name": "bob jones",
+    "email": "bob.jones_at_domain.com",
+    "join_date": "15/02/2023",
+    "purchase_amount": 120.0,
+    "region": "South",
+    "is_active": false,
+    "notes": "legacy"
+  },
+  {
+    "customer_id": "C103",
+    "full_name": "CHARLIE BROWN",
+    "email": "charlie@domain.com",
+    "join_date": "2023.03.10",
+    "purchase_amount": null,
+    "region": "East",
+    "is_active": true,
+    "notes": "vip"
+  },
+  {
+    "customer_id": "C104",
+    "full_name": "Diana Prince",
+    "email": null,
+    "join_date": "2023-04-01",
+    "purchase_amount": 450.75,
+    "region": "West",
+    "is_active": true,
+    "notes": "beta"
+  },
+  {
+    "customer_id": "C105",
+    "full_name": "Evan Wright",
+    "email": "evan@test.co.uk",
+    "join_date": null,
+    "purchase_amount": 95.2,
+    "region": "north",
+    "is_active": "Yes",
+    "notes": null
+  },
+  {
+    "customer_id": "C106",
+    "full_name": "Fiona Gallagher",
+    "email": "fiona.g@domain.com",
+    "join_date": "2023-06-20",
+    "purchase_amount": 310.0,
+    "region": "SOUTH",
+    "is_active": false,
+    "notes": "new"
+  },
+  {
+    "customer_id": "C101",
+    "full_name": "Alice Smith",
+    "email": "alice@example.com",
+    "join_date": "2023-01-15",
+    "purchase_amount": 250.5,
+    "region": " North ",
+    "is_active": true,
+    "notes": "active"
+  },
+  {
+    "customer_id": "C107",
+    "full_name": "Gareth Bale",
+    "email": "gareth@sports.org",
+    "join_date": "2023-07-04",
+    "purchase_amount": 15000.0,
+    "region": "East",
+    "is_active": true,
+    "notes": "trial"
+  },
+  {
+    "customer_id": "C108",
+    "full_name": "Hannah Abbott",
+    "email": "hannah@domain",
+    "join_date": "2023-08-11",
+    "purchase_amount": 85.0,
+    "region": null,
+    "is_active": false,
+    "notes": null
+  },
+  {
+    "customer_id": "C109",
+    "full_name": "Ian Malcolm",
+    "email": "ian@dino.com",
+    "join_date": "invalid_date",
+    "purchase_amount": -50.0,
+    "region": "West",
+    "is_active": "Unknown",
+    "notes": "review"
+  },
+  {
+    "customer_id": "C110",
+    "full_name": "  ",
+    "email": "",
+    "join_date": "",
+    "purchase_amount": 0.0,
+    "region": "",
+    "is_active": true,
+    "notes": null
+  },
+  {
+    "customer_id": "C111",
+    "full_name": "",
+    "email": "   ",
+    "join_date": "  ",
+    "purchase_amount": -0.01,
+    "region": "   ",
+    "is_active": false,
+    "notes": null
+  },
+  {
+    "customer_id": "C112",
+    "full_name": "Zoe Park",
+    "email": "zoe@example.com",
+    "join_date": "2023-12-31",
+    "purchase_amount": null,
+    "region": "North",
+    "is_active": true,
+    "notes": "ok"
+  }
+]
